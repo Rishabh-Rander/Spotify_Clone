@@ -18,9 +18,7 @@ Welcome to my Spotify Clone project! This project is a recreation of the Spotify
 
 ## How to View the Project
 
-1. Clone the repository to your local machine:
-   git clone https://github.com/Rishabh-Rander/Spotify_Clone.git
-2. Open the `index.html` file in your preferred web browser.
+Click on the link [Spotify Clone](https://rishabh-rander.github.io/Spotify_Clone/)
 
 ## Screenshots
 
